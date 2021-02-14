@@ -157,7 +157,7 @@
  												</ul>
  											</li> -->
  											<li class="nav-item">
- 												<a class="nav-link" href="contact.html">	Contato</a>
+ 												<a class="nav-link" href="contact.php">	Contato</a>
  											</li>
  										</ul>
 

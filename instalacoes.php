@@ -130,7 +130,7 @@
  												</ul>
  											</li> -->
  											<li class="nav-item">
- 												<a class="nav-link" href="contact.html">	Contato</a>
+ 												<a class="nav-link" href="contact.php">	Contato</a>
  											</li>
  										</ul>
 
@@ -185,7 +185,7 @@
  						<form action="sendemail.php">
  							<input type="text" name="name" id="name" required="" placeholder="Nome">
  							<input type="email" name="email" id="email" required="" placeholder="E-mail">
- 							<select name="Produto" id="produto">
+ 							<select style="background: #fff" name="Produto" id="produto">
 								  <option value="volvo">Instalação medicinal</option>
 								  <option value="saab">Instalação industrial</option>
 					

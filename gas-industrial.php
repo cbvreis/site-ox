@@ -154,7 +154,7 @@ if (($handle = fopen("base-industrial.csv", "r")) !== FALSE) {
                                                  </ul>
                                              </li> -->
                                              <li class="nav-item">
-                                                 <a class="nav-link" href="contact.html">    Contato</a>
+                                                 <a class="nav-link" href="contact.php">    Contato</a>
                                              </li>
                                          </ul>
 
@@ -217,7 +217,7 @@ if (($handle = fopen("base-industrial.csv", "r")) !== FALSE) {
                          <form action="sendemail.php">
                              <input type="text" name="name" id="name" required="" placeholder="Nome">
                              <input type="email" name="email" id="email" required="" placeholder="E-mail">
-                             <select name="Produto" id="produto">
+                             <select style="background: #fff" name="Produto" id="produto">
                                   <option value="volvo">Oxigênio</option>
                                   <option value="saab">Nitrogênio</option>
                                   <option value="mercedes">Óxido Nitroso</option>

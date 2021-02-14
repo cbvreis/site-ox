@@ -6,7 +6,7 @@
  	<meta http-equiv="X-UA-Compatible" content="IE=edge">
  	<meta name="viewport" content="width=device-width, initial-scale=1">
 
- 	<title> Dustrian | Factory &amp; Industrial HTML Template |ThemeForest</title>
+ 	<title> Oximil | Nós temos o ar que você precisa!</title>
 
  	<!--Favicon-->
  	<link rel="icon" href="assets/img/favicon.png" type="image/jpg" />
@@ -93,7 +93,7 @@
  										<span class="navbar-toggler-icon"></span>
  									</button>
 
- 									<div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+ 									<div style=" white-space: nowrap;" class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
  										<ul class="navbar-nav m-auto">
  											<li class="nav-item">
  												<a class="nav-link active" href="#">Home
@@ -108,16 +108,16 @@
  											</li>
 
  											<li class="nav-item">
- 												<a class="nav-link" href="#">Pages
- 													<span class="sub-nav-toggler">
- 													</span>
+ 												<a class="nav-link" href="#">Sobre Nós
+ 												<!--	<span class="sub-nav-toggler">
+ 													</span> -->
  												</a>
  												<ul class="sub-menu">
- 													<li><a href="about.html">About us</a></li>
- 													<li><a href="choose-us.html">Why Choose Us</a></li>
- 													<li><a href="team.html">Our Team</a></li>
- 													<li><a href="price.html">Pricing</a></li>
- 													<li><a href="faq.html">FAQ</a></li>
+ 													<li><a href="#historia">Nossa História</a></li>
+ 													<li><a href="#missao">Missão, Visão e Valores</a></li>
+ 													<li><a href="#qualidade">Política de Qualidade</a></li>
+ 												<!--	<li><a href="price.html">Pricing</a></li>
+ 													<li><a href="faq.html">FAQ</a></li> -->
  												</ul>
  											</li>
  											<li class="nav-item">
@@ -126,25 +126,27 @@
  													</span>
  												</a>
  												<ul class="sub-menu">
- 													<li><a href="services-1.html">Services-01</a></li>
- 													<li><a href="services-2.html">Services-02</a></li>
- 													<li><a href="single-service.html">Service Details</a></li>
+ 													<li><a href="services-1.html">Gases Medicinais</a></li>
+ 													<li><a href="services-2.html">Gases Industriais</a></li>
+ 													<li><a href="services-1.html">Gases Especiais</a></li>
+ 													<li><a href="services-2.html">Obras de Infraestrutura</a></li>
+ 									<!--				<li><a href="single-service.html">Service Details</a></li> -->
  												</ul>
 
  											</li>
 
  											<li class="nav-item">
- 												<a class="nav-link" href="#">Projects
+ 												<a class="nav-link" href="#ar">No AR!
  													<span class="sub-nav-toggler">
  													</span>
  												</a>
- 												<ul class="sub-menu">
+ 								<!--				<ul class="sub-menu">
  													<li><a href="projects.html">Projects</a></li>
  													<li><a href="single-project.html">Project Details</a></li>
- 												</ul>
+ 												</ul> -->
  											</li>
 
- 											<li class="nav-item">
+ 										<!--	<li class="nav-item">
  												<a class="nav-link" href="#">Blog
  													<span class="sub-nav-toggler">
  													</span>
@@ -153,9 +155,9 @@
  													<li><a href="blog.html">Blog</a></li>
  													<li><a href="single-blog.html">Blog Details</a></li>
  												</ul>
- 											</li>
+ 											</li> -->
  											<li class="nav-item">
- 												<a class="nav-link" href="contact.html">Contact</a>
+ 												<a class="nav-link" href="contact.html">	Contato</a>
  											</li>
  										</ul>
 
@@ -165,7 +167,7 @@
  						</div>
  						<div class="col-lg-3 text-right">
  							<div class="header-right-content">
- 								<div class="header-btn main-btn">Entre em contato</div>
+ 								<div class="header-btn main-btn">Atendimento</div>
  							</div>
  						</div>
  					</div>
@@ -216,7 +218,7 @@
 
  	<!-- About Section-->
 
- 	<div class="about-area section-padding">
+ 	<div id ="historia" class="about-area section-padding">
  		<div class="container">
  			<div class="row">
  				<div class="col-lg-6 col-md-12 col-sm-12">
@@ -323,7 +325,7 @@
 
  	<!--Feature Section-->
 
- 	<div class="feature-area section-padding">
+ 	<div id="missao" class="feature-area section-padding">
  		<div class="container">
  			<div class="row">
 
@@ -423,7 +425,7 @@
  	 Project Section -->
  	 <hr>
 
- 	 	<div class="choose-area">
+ 	 	<div id="qualidade" class="choose-area">
  		<div class="chooseus-content">
  			<div class="section-title">
  		<!--		<h6>Why Choose Us</h6> -->
@@ -452,11 +454,11 @@
  	</div>
 
 
- 	<div class="project-area section-padding pad-bot-0">
+ 	<div id="ar" class="project-area section-padding pad-bot-0">
  		<div class="container">
  			<div class="offset-lg-2 col-lg-8 text-center">
  				<div class="section-title">
- 					<h6>Portfolio</h6>
+ 					<h6>Mídia</h6>
  					<h2>No <b>Ar</b></h2>
  					<p>Industrial equipment modern technique sit amet, consectetur adipisicing elit. <br> Repellendus laboriosam omnis cum.</p>
  				</div>
@@ -546,6 +548,44 @@
  	</div>
 
  	<!-- Testimonial Section -->
+<!--
+	<hr>
+ 	<div class="about-area section-padding">
+ 		<div class="container">
+ 			<div class="row">
+ 				<div class="col-lg-6 col-md-12 col-sm-12">
+ 					<div class="info-content-area">
+ 						<div class="section-title">
+ 							<h6>Sobre Nós</h6>
+ 							<h2>We're leading <b>Industrial Solution</b> in Worldwide</h2>
+ 						</div>
+ 						<p>We are build construction site lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim et, similique, minus soluta ducimus.</p>
+ 						<p class="highlight">Since our launch in 1995, to deliver high value project.</p>
+ 						<p class="highlight">We always provide flexible & quality task. </p>
+ 						<p class="highlight">Uninque latest machinary used the industrial project.</p>
+
+ 						<div class="row founded">
+ 							<div class="col-lg-4 col-md-6 col-12">
+ 								<div class="years"><span>30</span>Anos de sucesso</div>
+ 							</div>
+ 							<div class="col-lg-8 col-md-6 col-12">
+ 								<div class="text">Since we established in 1995 experience &amp; still a growing protfolio day by day!</div>
+ 							</div>
+ 						</div>
+ 					</div>
+ 				</div>
+
+ 				<div class="col-lg-6 col-md-12 col-sm-12">
+ 					<div class="info-img">
+ 						<img src="assets/img/about.jpeg" alt="">
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</div>
+
+
+
 
  	<div class="testimonial-area gray-bg section-padding">
  		<div class="capricorn-testimonial">
@@ -606,7 +646,7 @@
  				</div>
  			</div>
  		</div>
- 	</div>
+ 	</div> -->
 
  	<!-- Blog Section
 

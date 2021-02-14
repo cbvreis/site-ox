@@ -123,10 +123,10 @@
  													</span>
  												</a>
  												<ul class="sub-menu">
- 													<li><a href="gases-medicinais.html">Gases Medicinais</a></li>
- 													<li><a href="gases-industriais.html">Gases Industriais</a></li>
+ 													<li><a href="gases-medicinais.php">Gases Medicinais</a></li>
+ 													<li><a href="gases-industriais.php">Gases Industriais</a></li>
  													
- 													<li><a href="obra.html">Instalação de Gases</a></li>
+ 													<li><a href="instalacoes.php">Instalação de Gases</a></li>
  									<!--				<li><a href="single-service.html">Service Details</a></li> -->
  												</ul>
 
@@ -164,7 +164,7 @@
  						</div>
  						<div class="col-lg-3 text-right">
  							<div class="header-right-content">
- 								<div class="header-btn main-btn">Atendimento</div>
+ 								<div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996080866" > Atendimento </a> </div>
  							</div>
  						</div>
  					</div>
@@ -325,75 +325,7 @@
 
  	<!-- Footer Area -->
 
- 	<footer class="footer-area">
- 		<div class="container">
- 			<div class="footer-up">
- 				<div class="row">
- 					<div class="col-lg-3 col-md-6 col-sm-12">
- 						<div class="logo">
- 							<img src="assets/img/logo-white.png" alt="dustrian-logo">
- 						</div>
- 						<p>We are the leaders in the building construction and factories. We’re around over the worldwide. We never give up on the challenges.</p>
- 						<div class="social-area">
- 							<a href=""><i class="lab la-facebook-f"></i></a>
- 							<a href=""><i class="lab la-instagram"></i></a>
- 							<a href=""><i class="lab la-twitter"></i></a>
- 							<a href=""><i class="la la-skype"></i></a>
- 						</div>
- 					</div>
- 					<div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12">
- 						<h5>Explore</h5>
- 						<ul>
- 							<li>
- 								<a href="#">About Company</a>
- 								<a href="#">Latest Projects</a>
- 								<a href="#">Get a Quote</a>
- 								<a href="#">Pricing Guide</a>
- 								<a href="#">Helpful FAQ</a>
- 								<a href="#">Sitemap</a>
- 							</li>
- 						</ul>
- 					</div>
- 					<div class="col-lg-3 col-md-6 col-sm-12">
- 						<h5>Services</h5>
- 						<ul>
- 							<li>
- 								<a href="#"><span>-</span> Construction Engineering</a>
- 								<a href="#"><span>-</span> Oil & Gas Refinery</a>
- 								<a href="#"><span>-</span> Mechanical Engineering</a>
- 								<a href="#"><span>-</span> Chemical Research</a>
- 								<a href="#"><span>-</span> Civil Engineering</a>
- 							</li>
- 						</ul>
- 					</div>
- 					<div class="col-lg-3 col-md-6">
- 						<div class="subscribe-form">
- 							<h5>Newsletter</h5>
- 							<p>Sign Up now for latest news update</p>
- 							<form action="index.html">
- 								<input type="email" placeholder="Your email">
- 								<button class="main-btn">Subscribe</button>
- 							</form>
- 						</div>
- 					</div>
- 				</div>
- 			</div>
- 		</div>
- 	</footer>
-
- 	<div class="footer-bottom">
- 		<div class="container">
- 			<div class="row justify-content-center align-items-center">
- 				<div class="col-lg-6 col-md-6 col-sm-12">
- 					<p class="copyright-line">© 2020 Dustrian. All rights reserved.</p>
- 				</div>
- 				<div class="col-lg-6 col-md-6 col-sm-12">
- 					<p class="privacy">Privacy Policy | Terms &amp; Conditions</p>
- 				</div>
- 			</div>
- 		</div>
- 	</div>
-
+ 		<?php include('footer.php') ?>
  	<!-- Scroll Top Area -->
  	<a href="#top" class="go-top" style="display: block;"><i class="las la-angle-up"></i></a>
 

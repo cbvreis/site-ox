@@ -66,7 +66,7 @@
  										<span class="navbar-toggler-icon"></span>
  									</button>
 
- 									<div style=" white-space: nowrap;color:white" class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+ 									<div style=" white-space: nowrap;" class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
  										<ul class="navbar-nav m-auto">
  											<li class="nav-item">
  												<a class="nav-link active" href="index.php">Home
@@ -99,10 +99,10 @@
  													</span>
  												</a>
  												<ul class="sub-menu">
- 													<li><a href="gases-medicinais.html">Gases Medicinais</a></li>
- 													<li><a href="gases-industriais.html">Gases Industriais</a></li>
+ 													<li><a href="gases-medicinais.php">Gases Medicinais</a></li>
+ 													<li><a href="gases-industriais.php">Gases Industriais</a></li>
  													
- 													<li><a href="obra.html">Instalação de Gases</a></li>
+ 													<li><a href="instalacoes.php">Instalação de Gases</a></li>
  									<!--				<li><a href="single-service.html">Service Details</a></li> -->
  												</ul>
 
@@ -140,7 +140,7 @@
  						</div>
  						<div class="col-lg-3 text-right">
  							<div class="header-right-content">
- 								<div class="header-btn main-btn">Atendimento</div>
+ 								<div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996080866" > Atendimento </a> </div>
  							</div>
  						</div>
  					</div>
@@ -152,12 +152,12 @@
 
  	<!-- Breadcroumb Area -->
 
- 	<div class="breadcroumb-area2 bread-bg">
+ 	<div class="breadcroumb-area bread-bg">
  		<div class="container">
  			<div class="row">
  				<div class="col-lg-12">
  					<div class="breadcroumb-title text-center">
- 						<h1>Gases Industriais</h1>
+ 						<h1>Gases Medicinais</h1>
  				<!--		<h6><a href="index.html">Home</a> / Service Details</h6> -->
  					</div>
  				</div>
@@ -175,15 +175,11 @@
  				<div class="col-lg-4">
  					<div class="service-list">
  						<h5>Gases</h5>
- 						<a href="gas-industrial.php?gas=oxigenio">Oxigênio Industrial<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="gas-industrial.php?gas=acetileno">Acetileno<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="gas-industrial.php?gas=argonio">Argonio<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="gas-industrial.php?gas=co2">Dióxido de Carbono <span><i class="las la-arrow-right"></i></span></a>
-	 					<a href="gas-industrial.php?gas=helio">Helio <span><i class="las la-arrow-right"></i></span></a>
-	 					<a href="gas-industrial.php?gas=hidrogenio">Hidrogênio<span><i class="las la-arrow-right"></i></span></a>
-	 					<a href="gas-industrial.php?gas=nitrogenio">Nitrogênio<span><i class="las la-arrow-right"></i></span></a>
-	 					<a href="gas-industrial.php?gas=mistura-solda">Mistura para solda<span><i class="las la-arrow-right"></i></span></a>
-	 					<a href="gas-industrial.php?gas=gases-especiais">Gases Especiais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="gas-selecionado.php?gas=oxigenio">Oxigênio<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="gas-selecionado.php?gas=nitrogenio">Ar Sintético Medicinal<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="gas-selecionado.php?gas=oxido-nitroso">Óxido Nitroso<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="gas-selecionado.php?gas=misturas-especiais">Misturas Medicinais <span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="#">Gases Especiais<span><i class="las la-arrow-right"></i></span></a>
  					</div>
 
  					<div class="question-section">
@@ -192,14 +188,10 @@
  							<input type="text" name="name" id="name" required="" placeholder="Nome">
  							<input type="email" name="email" id="email" required="" placeholder="E-mail">
  							<select name="Produto" id="produto">
-								  <option value="volvo">Oxigênio Industrial</option>
-								  <option value="saab">Acetileno</option>
-								  <option value="mercedes">Argonio</option>
-								  <option value="audi">Dióxido de Carbono</option>
-								  <option value="volvo">Helio</option>
-								  <option value="saab">Hidrogênio</option>
-								  <option value="mercedes">Nitrogênio</option>
-								  <option value="audi">Mistura para solda</option>
+								  <option value="volvo">Oxigênio</option>
+								  <option value="saab">Nitrogênio</option>
+								  <option value="mercedes">Óxido Nitroso</option>
+								  <option value="audi">Misturas Medicinais</option>
 								  <option value="audi">Gases Especiais</option>
 							</select>
  							<textarea name="message" id="message" cols="30" rows="10" required="" placeholder="Deixe sua mensagem..."></textarea>
@@ -218,9 +210,11 @@
 
  				<div class="col-lg-8">
  					<div class="single-service">
- 						<img src="assets/img/industria.jpg" alt="">
- 						<h2>Linha Industrial</h2>
- 						<p>A OXIMIL desempenha forte PRESENÇA nas aplicações de Gases Industriais para a melhoria continua dos seus clientes. Nosso objetivo é participar da redução dos custos produtivos com garantia e qualidade características de uma empresa genuinamente brasileira a serviço do mercado há 26 anos. Nossa presença está no comércio e serviços; laboratórios de pesquisas; minerações; siderúrgicas; fundições; metal mecânica; Indústria automobilística, de Transformações, química, alimentícias, bebidas; construções civil e mecânica. </p><p> Competitividade e relacionamento duradouro com seus clientes e fornecedores são os pontos fortes da Oximil.</p><p> Aqui, você pode CONFIAR.</p>
+ 						<img src="assets/img/regulador.jpg" alt="">
+ 						<h2>Linha Medicinal</h2>
+ 						<p>Os gases medicinais da Oximil são utilizados no apoio respiratório, como agentes anestésicos, para oferecer alívio da dor e para diagnosticar e tratar diversas condições clínicas. Além disso, os gases medicinais são utilizados para operar e calibrar equipamentos médicos.</p>
+						<p>A Oximil disponibiliza profissionais, produtos e serviços medicinais há 30 anos para prestar a melhor terapia aos seus pacientes em hospitais, clínicas, centros de cuidados intermédios, centros de emergência e nos lares dos pacientes.
+						</p> <p>Estamos no Ar, 24 horas por dia, 7 dias por semana, cuidando e apoiando os profissionais de saúde. Trabalhamos para tornar mais humanizado o atendimento aos pacientes dos nossos produtos e serviços.</p>
  					<!--	<hr>
  						<h5>Building Renovation with Current Technology</h5>
  						<p>Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo
@@ -310,74 +304,7 @@
 
  	<!-- Footer Area -->
 
- 	<footer class="footer-area">
- 		<div class="container">
- 			<div class="footer-up">
- 				<div class="row">
- 					<div class="col-lg-3 col-md-6 col-sm-12">
- 						<div class="logo">
- 							<img src="assets/img/logo-white.png" alt="dustrian-logo">
- 						</div>
- 						<p>We are the leaders in the building construction and factories. We’re around over the worldwide. We never give up on the challenges.</p>
- 						<div class="social-area">
- 							<a href=""><i class="lab la-facebook-f"></i></a>
- 							<a href=""><i class="lab la-instagram"></i></a>
- 							<a href=""><i class="lab la-twitter"></i></a>
- 							<a href=""><i class="la la-skype"></i></a>
- 						</div>
- 					</div>
- 					<div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12">
- 						<h5>Explore</h5>
- 						<ul>
- 							<li>
- 								<a href="#">About Company</a>
- 								<a href="#">Latest Projects</a>
- 								<a href="#">Get a Quote</a>
- 								<a href="#">Pricing Guide</a>
- 								<a href="#">Helpful FAQ</a>
- 								<a href="#">Sitemap</a>
- 							</li>
- 						</ul>
- 					</div>
- 					<div class="col-lg-3 col-md-6 col-sm-12">
- 						<h5>Services</h5>
- 						<ul>
- 							<li>
- 								<a href="#"><span>-</span> Construction Engineering</a>
- 								<a href="#"><span>-</span> Oil & Gas Refinery</a>
- 								<a href="#"><span>-</span> Mechanical Engineering</a>
- 								<a href="#"><span>-</span> Chemical Research</a>
- 								<a href="#"><span>-</span> Civil Engineering</a>
- 							</li>
- 						</ul>
- 					</div>
- 					<div class="col-lg-3 col-md-6">
- 						<div class="subscribe-form">
- 							<h5>Newsletter</h5>
- 							<p>Sign Up now for latest news update</p>
- 							<form action="index.html">
- 								<input type="email" placeholder="Your email">
- 								<button class="main-btn">Subscribe</button>
- 							</form>
- 						</div>
- 					</div>
- 				</div>
- 			</div>
- 		</div>
- 	</footer>
-
- 	<div class="footer-bottom">
- 		<div class="container">
- 			<div class="row justify-content-center align-items-center">
- 				<div class="col-lg-6 col-md-6 col-sm-12">
- 					<p class="copyright-line">© 2020 Dustrian. All rights reserved.</p>
- 				</div>
- 				<div class="col-lg-6 col-md-6 col-sm-12">
- 					<p class="privacy">Privacy Policy | Terms &amp; Conditions</p>
- 				</div>
- 			</div>
- 		</div>
- 	</div>
+ 		<?php include('footer.php') ?>
 
  	<!-- Scroll Top Area -->
  	<a href="#top" class="go-top" style="display: block;"><i class="las la-angle-up"></i></a>

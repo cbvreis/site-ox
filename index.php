@@ -126,7 +126,7 @@
  													</span>
  												</a>
  												<ul class="sub-menu">
- 													<li><a href="services-1.html">Gases Medicinais</a></li>
+ 													<li><a href="gases-medicinais.html">Gases Medicinais</a></li>
  													<li><a href="services-2.html">Gases Industriais</a></li>
  													<li><a href="services-1.html">Gases Especiais</a></li>
  													<li><a href="services-2.html">Obras de Infraestrutura</a></li>
@@ -459,7 +459,7 @@
  			<div class="offset-lg-2 col-lg-8 text-center">
  				<div class="section-title">
  					<h6>Mídia</h6>
- 					<h2>No <b>Ar</b></h2>
+ 					<h2>No <b>Ar!</b></h2>
  					<p>Industrial equipment modern technique sit amet, consectetur adipisicing elit. <br> Repellendus laboriosam omnis cum.</p>
  				</div>
  			</div>

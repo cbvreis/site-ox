@@ -1,3 +1,27 @@
+<?php
+
+	
+	$row = 1;
+	if (($handle = fopen("base-medicinal.csv", "r")) !== FALSE) {
+	    while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
+	        $num = count($data);
+	        $row++;
+	        for ($c=0; $c < $num; $c++) {
+	        	if($data[$c]==$_GET['gas']){
+	            	$titulo=$data[1];
+	            	$texto=$data[2];
+	            	$imagem=$data[3];
+	        }
+	    	}
+	    }
+	    fclose($handle);
+}
+
+
+
+
+?>
+
  <!DOCTYPE html>
  <html lang="en">
 
@@ -66,7 +90,7 @@
  										<span class="navbar-toggler-icon"></span>
  									</button>
 
- 									<div style=" white-space: nowrap;color:white" class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+ 									<div style=" white-space: nowrap;" class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
  										<ul class="navbar-nav m-auto">
  											<li class="nav-item">
  												<a class="nav-link active" href="index.php">Home
@@ -152,12 +176,12 @@
 
  	<!-- Breadcroumb Area -->
 
- 	<div class="breadcroumb-area3 bread-bg">
+ 	<div class="breadcroumb-area bread-bg">
  		<div class="container">
  			<div class="row">
  				<div class="col-lg-12">
  					<div class="breadcroumb-title text-center">
- 						<h1>Instalação de Gases</h1>
+ 						<h1>Gases Medicinais</h1>
  				<!--		<h6><a href="index.html">Home</a> / Service Details</h6> -->
  					</div>
  				</div>
@@ -175,9 +199,10 @@
  				<div class="col-lg-4">
  					<div class="service-list">
  						<h5>Gases</h5>
- 						<a href="obra-selecionada.php?obra=medicinal">Instalações Medicinais<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="obra-selecionada.php?obra=industrial">Instalações Industriais<span><i class="las la-arrow-right"></i></span></a>
- 					
+ 						<a href="gas-selecionado.php?gas=oxigenio" <?= $titulo=="Oxigênio" ? "class='active'" : "" ?> >Oxigênio<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="gas-selecionado.php?gas=nitrogenio" <?= $titulo=="Ar Sintético Medicinal" ? "class='active'" : "" ?> >Ar Sintético Medicinal<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="gas-selecionado.php?gas=oxido-nitroso" <?= $titulo=="Óxido Nitroso" ? "class='active'" : "" ?> >Óxido Nitroso<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="gas-selecionado.php?gas=misturas-especiais" <?= $titulo=="Gases e Misturas Especiais" ? "class='active'" : "" ?> >Gases e Misturas Especiais <span><i class="las la-arrow-right"></i></span></a>
  					</div>
 
  					<div class="question-section">
@@ -186,9 +211,11 @@
  							<input type="text" name="name" id="name" required="" placeholder="Nome">
  							<input type="email" name="email" id="email" required="" placeholder="E-mail">
  							<select name="Produto" id="produto">
-								  <option value="volvo">Instalação medicinal</option>
-								  <option value="saab">Instalação industrial</option>
-					
+								  <option value="volvo">Oxigênio</option>
+								  <option value="saab">Nitrogênio</option>
+								  <option value="mercedes">Óxido Nitroso</option>
+								  <option value="audi">Gases e Misturas Especiais</option>
+			
 							</select>
  							<textarea name="message" id="message" cols="30" rows="10" required="" placeholder="Deixe sua mensagem..."></textarea>
  							<button class="btn btn-primary" type="submit">Enviar</button>
@@ -206,21 +233,10 @@
 
  				<div class="col-lg-8">
  					<div class="single-service">
- 						<img src="assets/img/obra2.jpg" alt="">
- 						<h2>Instalação de Gases</h2>
- 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, 
-							pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus. 
-							Donec scelerisque sollicitudin enim eu venenatis. Duis tincidunt laoreet ex, 
-							in pretium orci vestibulum eget.</p> <p> Class aptent taciti sociosqu ad litora torquent
-							per conubia nostra, per inceptos himenaeos. Duis pharetra luctus lacus ut 
-							vestibulum. Maecenas ipsum lacus, lacinia quis posuere ut, pulvinar vitae dolor.
-							Integer eu nibh at nisi ullamcorper sagittis id vel leo.</p> <p>Integer feugiat 
-							faucibus libero, at maximus nisl suscipit posuere. Morbi nec enim nunc. 
-							Phasellus bibendum turpis ut ipsum egestas, sed sollicitudin elit convallis. 
-							Cras pharetra mi tristique sapien vestibulum lobortis. Nam eget bibendum metus, 
-							non dictum mauris. Nulla at tellus sagittis, viverra est a, bibendum metus.
-							</p>
-							 					<!--	<hr>
+ 						<img src="assets/img/<?=$imagem?>" alt="">
+ 						<h2><?= $titulo ?></h2>
+ 						<p><?= $texto ?></p>
+ 					<!--	<hr>
  						<h5>Building Renovation with Current Technology</h5>
  						<p>Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo
  							natus, mollitia adipisci sit eveniet non? Nisi doloremque molestiae amet quaerat ipsa

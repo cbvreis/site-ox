@@ -81,7 +81,7 @@
  					<div class="row">
  						<div class="col-lg-3">
  							<div class="logo">
- 								<a class="navbar-brand" href="index.html"><img src="assets/img/logo.png" alt=""></a>
+ 								<a class="navbar-brand" href="#"><img src="assets/img/logo.png" alt=""></a>
  							</div>
  						</div>
  						<div class="col-lg-6">
@@ -129,7 +129,7 @@
  													<li><a href="gases-medicinais.html">Gases Medicinais</a></li>
  													<li><a href="gases-industriais.html">Gases Industriais</a></li>
  													
- 													<li><a href="obra.html">Obras de Infraestrutura</a></li>
+ 													<li><a href="obra.html">Instalação de Gases</a></li>
  									<!--				<li><a href="single-service.html">Service Details</a></li> -->
  												</ul>
 

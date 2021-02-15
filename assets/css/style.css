@@ -1029,11 +1029,11 @@ textarea:focus::-webkit-input-placeholder {
 ==================*/
 
 .single-slide-item {
-	background-image: url(../img/bg-1.jpg);
+	background-image: url(../img/bg2.jpeg);
 }
 
 .hero-area-bg-2 {
-	background-image: url(../img/bg-2.jpg);
+	background-image: url(../img/bg1.jpeg);
 }
 
 #home2 .single-slide-item {
@@ -1065,7 +1065,7 @@ textarea:focus::-webkit-input-placeholder {
 }
 
 .single-slide-item h1 {
-	color: #fff;
+	color: #332646;
 	font-size: 70px;
 	font-weight: 500;
 	line-height: 90px;
@@ -1086,7 +1086,7 @@ textarea:focus::-webkit-input-placeholder {
 }
 
 .single-slide-item p {
-	color: #ccc7c7;
+	color: #332646;
 	font-size: 18px;
 	line-height: 30px;
 }

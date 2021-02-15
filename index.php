@@ -188,11 +188,10 @@
  					<div class="row justify-content-center">
  						<div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".3s">
  							<div class="section-title">
- 								<h6 >We Build only big things</h6>
- 								<h1 style="color:#332646">We are leader<br> <b>Industrial Business</b></h1>
- 								<p> Comercialização e a produção de gases industriais, medicinais e especiais, alinhada a uma eficiente logística a serviço dos clientes.</p>
+ 								<h1 style="color:#fff">Gases Medicinais</h1>
+ 								<p style="color:#fff"> A Oximil disponibiliza os melhores profissionais, <br>produtos e serviços medicinais há 30 anos.</p>
  							</div>
- 							<a href="about.html" class="main-btn">Learn More</a>
+ 							<a href="https://wa.me/5531996080866" class="main-btn">Atendimento</a>
  						</div>
  					</div>
  				</div>
@@ -206,11 +205,10 @@
  					<div class="row justify-content-center">
  						<div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".3s">
  							<div class="section-title">
- 								<h6>We provide best satisfied work</h6>
  								<h1>Confiança<br> <!--<b>Factory Solutions</b> --></h1>
  								<p>A OXIMIL tem para seus clientes produtos e serviços seguros,<br> de alta tecnologia e qualidade. Entre em contato conosco.</p>
  							</div>
- 							<a href="about.html" class="main-btn">Learn More</a>
+ 							<a href="https://wa.me/5531996080866" class="main-btn">Atendimento</a>
  						</div>
  					</div>
  				</div>

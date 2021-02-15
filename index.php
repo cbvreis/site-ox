@@ -230,19 +230,19 @@
  					<div class="info-content-area">
  						<div class="section-title">
  							<h6>Sobre Nós</h6>
- 							<h2>We're leading <b>Industrial Solution</b> in Worldwide</h2>
+ 							<h2>Uma empresa que tem <b>orgulho de ser</b> 100% Brasileira!</h2>
  						</div>
- 						<p>We are build construction site lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea enim et, similique, minus soluta ducimus.</p>
- 						<p class="highlight">Since our launch in 1995, to deliver high value project.</p>
- 						<p class="highlight">We always provide flexible & quality task. </p>
- 						<p class="highlight">Uninque latest machinary used the industrial project.</p>
-
+ 						<p>Em 1991 começamos a construir o que somos hoje, uma das maiores envasadoras de Gases no Brasil e referência em nosso mercado de atuação.</p>
+ 						<p class="highlight">Atendendo mais de 150 cidades.</p>
+ 						<p class="highlight">Possuímos logística própria para melhor atender nossos clientes. </p>
+ 						<p class="highlight">Atendimento personalizado para a necessidade de cada cliente.</p>
+						<p class="highlight">•	Comercializamos equipamentos, serviços e produtos de alta qualidade com todos os certificados exigidos no mercado.</p>
  						<div class="row founded">
  							<div class="col-lg-4 col-md-6 col-12">
  								<div class="years"><span>30</span>Anos de sucesso</div>
  							</div>
  							<div class="col-lg-8 col-md-6 col-12">
- 								<div class="text">Since we established in 1995 experience &amp; still a growing protfolio day by day!</div>
+ 								<div class="text">O ano de 2021 é um ano especial e que nos faz lembrar o quanto caminhamos para chegar até esse momento</div>
  							</div>
  						</div>
  					</div>
@@ -260,7 +260,7 @@
  				<div class="offset-lg-2 col-lg-8 text-center">
  					<div class="section-title">
  						<h6>Serviços</h6>
- 						<h2>Providing the Best Global <b>Industry Services</b></h2>
+ 						<h2>Fornecendo os <b>melhores serviços</b> no mercado de Gases</h2>
  					</div>
  				</div>
  			</div>
@@ -273,7 +273,7 @@
  								<i class="far fa-hospital fa-7x"></i>
  							</div>
  							<h5>Gases medicinais</h5>
- 							<p>There are some reason build the site lorem ipsum dolor sit amet.</p>
+ 							<p>Disponibilizamos profissionais, produtos e serviços medicinais variados.</p>
  							<a href="single-service.html" class="read-more">Read More</a>
  						</div>
  						<div class="single-service-area active">
@@ -281,7 +281,7 @@
  								<i class="fas fa-industry fa-7x" ></i>
  							</div>
  							<h5>Gases industriais</h5>
- 							<p>There are some reason build the site lorem ipsum dolor sit amet.</p>
+ 							<p>Soluções em gases industriais para redução dos custos produtivos dos clientes</p>
  							<a href="single-service.html" class="read-more">Read More</a>
  						</div>
 
@@ -290,7 +290,7 @@
 							<i class="fas fa-flask fa-7x"></i>
  							</div>
  							<h5>Gases especiais</h5>
- 							<p>There are some reason build the site lorem ipsum dolor sit amet.</p>
+ 							<p>Os gases especiais da Oximil são compostos de purezas específicas superiores a 99,995%.</p>
  							<a href="single-service.html" class="read-more">Read More</a>
  						</div>
  						<div class="single-service-area">
@@ -298,7 +298,7 @@
  								<i class="fas fa-tools fa-7x"></i>
  							</div>
  							<h5>Obras de infraestrura</h5>
- 							<p>There are planty vegetables growth the filed Lorem ipsum dolor sit amet.</p>
+ 							<p>A OXIMIL atua diretamente na elaboração dos projetos, execução e montagens de instalações.</p>
  							<a href="single-service.html" class="read-more">Read More</a>
  						</div>
  						<div class="single-service-area active">
@@ -331,8 +331,8 @@
 
  				<div class="col-lg-6 col-md-12 col-sm-12">
  					<div class="section-title">
- 						<h6>Features</h6>
- 						<h2> We manage & organized <b>Quality Assurance</b> Industrial Project</h2>
+ 					
+ 						<h2>Construímos nossa <b>história de 30 anos</b> para ser a <b>melhor empresa</b> de gás do mercado!</h2>
  					</div>
  		
  					<div class="single-feature-item">
@@ -340,9 +340,8 @@
  				<!--			<i class="flaticon-helmet"></i>  -->
  						</div>
  						<div class="feature-content">
- 							<h5>Industrial Leader</h5>
- 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta et doloribus, Lorem ipsum
- 								dolor sit amet.!</p>
+ 							<h5>Missão</h5>
+ 							<p>Estabelecer relacionamento duradouros com funcionários, clientes e fornecedores apresentando soluções inovadoras com garantia e qualidade.</p>
  						</div>
  					</div>
  					<div class="single-feature-item">
@@ -351,9 +350,8 @@
 						</div>
  						<div class
  						="feature-content">
- 							<h5>Quality Standards</h5>
- 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta et doloribus, Lorem ipsum
- 								dolor sit amet.</p>
+ 							<h5>Visão</h5>
+ 							<p>Ser a melhor empresa em relacionamento no fornecimento de gases industriais, medicinais, produtos e serviços.</p>
  						</div>
  					</div>
  					<div class="single-feature-item">
@@ -361,9 +359,13 @@
  				<!--			<i class="flaticon-crane"></i> -->
  						</div>
  						<div class="feature-content">
- 							<h5>Modern Technique</h5>
- 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta et doloribus, Lorem ipsum
- 								dolor sit amet.!</p>
+ 							<h5>Valores</h5>
+ 							<p>Satisfação do cliente e excelência no atendimento;	</p>
+							<p>Ética e transparência nos negócios;	</p>
+							<p>Equipe empreendedora e motivada;	</p>
+							<p>Responsabilidade social e ambiental;	</p>
+							<p>Resultado como medida de desempenho.	</p>
+							</p>
  						</div>
  					</div>
  				</div>
@@ -433,19 +435,18 @@
  			</div>
  			<div class="choose-certify">
  				<i style="color:white" class="la la-clipboard-check"></i>
- 				<h5 style="color:white">Certified Company</h5>
- 				<p style="color:white">Behold Lorem ipsum dolor sit, amet consectetur adipisicing elit.
- 					Inventore, blanditiis?
+ 				<h5 style="color:white">Qualidade é um valor!</h5>
+ 				<p style="color:white">A Oximil se compromete a garantir a qualidade, a satisfação dos seus clientes e partes interessadas por meio de gases, produtos e serviços confiáveis aprimorando continuamente seu sistema de gestão da qualidade.
  				</p>
  			</div>
 
- 			<div class="choose-certify">
+ 		<!--	<div class="choose-certify">
  				<i class="la la-medal" style="color:white"></i>
  				<h5 style="color:white"> Experience Employee</h5>
  				<p style="color:white">Behold Lorem ipsum dolor sit, amet consectetur adipisicing elit.
  					Inventore, blanditiis?
  				</p>
- 			</div>
+ 			</div> -->
  		</div>
  		<div class="chooseus-bg bg-cover">
  			<div class="overlay">

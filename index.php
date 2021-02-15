@@ -236,7 +236,7 @@
  						<p class="highlight">Atendendo mais de 150 cidades.</p>
  						<p class="highlight">Possuímos logística própria para melhor atender nossos clientes. </p>
  						<p class="highlight">Atendimento personalizado para a necessidade de cada cliente.</p>
-						<p class="highlight">•	Comercializamos equipamentos, serviços e produtos de alta qualidade com todos os certificados exigidos no mercado.</p>
+						<p class="highlight">Comercializamos equipamentos, serviços e produtos de alta qualidade com todos os certificados exigidos no mercado.</p>
  						<div class="row founded">
  							<div class="col-lg-4 col-md-6 col-12">
  								<div class="years"><span>30</span>Anos de sucesso</div>
@@ -274,7 +274,7 @@
  							</div>
  							<h5>Gases medicinais</h5>
  							<p>Disponibilizamos profissionais, produtos e serviços medicinais variados.</p>
- 							<a href="single-service.html" class="read-more">Read More</a>
+ 							<a href="single-service.html" class="read-more">Veja Mais</a>
  						</div>
  						<div class="single-service-area active">
  							<div class="service-icon">
@@ -282,7 +282,7 @@
  							</div>
  							<h5>Gases industriais</h5>
  							<p>Soluções em gases industriais para redução dos custos produtivos dos clientes</p>
- 							<a href="single-service.html" class="read-more">Read More</a>
+ 							<a href="single-service.html" class="read-more">Veja Mais</a>
  						</div>
 
  						<div class="single-service-area">
@@ -291,7 +291,7 @@
  							</div>
  							<h5>Gases especiais</h5>
  							<p>Os gases especiais da Oximil são compostos de purezas específicas superiores a 99,995%.</p>
- 							<a href="single-service.html" class="read-more">Read More</a>
+ 							<a href="single-service.html" class="read-more">Veja Mais</a>
  						</div>
  						<div class="single-service-area">
  							<div class="service-icon">
@@ -299,7 +299,7 @@
  							</div>
  							<h5>Obras de infraestrura</h5>
  							<p>A OXIMIL atua diretamente na elaboração dos projetos, execução e montagens de instalações.</p>
- 							<a href="single-service.html" class="read-more">Read More</a>
+ 							<a href="single-service.html" class="read-more">Veja Mais</a>
  						</div>
  						<div class="single-service-area active">
  							<div class="service-icon">
@@ -307,7 +307,7 @@
 							</div>
  							<h5>Equipamentos</h5>
  							<p>There are planty vegetables growth the filed Lorem ipsum dolor sit amet.</p>
- 							<a href="single-service.html" class="read-more">Read More</a>
+ 							<a href="single-service.html" class="read-more">Veja Mais</a>
  						</div>
  					<!--	<div class="single-service-area">
  							<div class="service-icon">
@@ -315,7 +315,7 @@
  							</div>
  							<h5>Civil Engineering</h5>
  							<p>There are planty vegetables growth the filed Lorem ipsum dolor sit amet.</p>
- 							<a href="single-service.html" class="read-more">Read More</a>
+ 							<a href="single-service.html" class="read-more">Veja Mais</a>
  						</div>-->
  					</div>
  				</div>
@@ -676,7 +676,7 @@
  							<p class="blog-meta">welding</p>
  							<h5><a href="single-blog.html">We believe in building long lasting our business relationships</a></h5>
  							<p>There are some reason Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, facilis perferendis ipsam.</p>
- 							<a href="single-blog.html" class="read-more">Read More</a>
+ 							<a href="single-blog.html" class="read-more">Veja Mais</a>
  						</div>
 
  					</div>
@@ -691,7 +691,7 @@
  							<p class="blog-meta">construction</p>
  							<h5><a href="single-blog.html">Five Importances practices for Construction Enterpreneurs </a></h5>
  							<p>There are some reason Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, facilis perferendis ipsam.</p>
- 							<a href="single-blog.html" class="read-more">Read More</a>
+ 							<a href="single-blog.html" class="read-more">Veja Mais</a>
  						</div>
  					</div>
  				</div>
@@ -705,7 +705,7 @@
  							<p class="blog-meta">industrial</p>
  							<h5><a href="single-blog.html">Auto Desk spent building long lasting our business relationships</a></h5>
  							<p>There are some reason Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, facilis perferendis ipsam.</p>
- 							<a href="single-blog.html" class="read-more">Read More</a>
+ 							<a href="single-blog.html" class="read-more">Veja Mais</a>
  						</div>
  					</div>
  				</div>

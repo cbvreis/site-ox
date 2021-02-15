@@ -461,7 +461,7 @@
  				<div class="section-title">
  					<h6>Mídia</h6>
  					<h2>No <b>Ar!</b></h2>
- 					<p>Industrial equipment modern technique sit amet, consectetur adipisicing elit. <br> Repellendus laboriosam omnis cum.</p>
+ 					<p>Estamos com você o <b>tempo todo!</b></p>
  				</div>
  			</div>
  			<div class="row">
@@ -472,8 +472,7 @@
  								<i class="las la-plus"></i>
  							</a>
  							<div class="hover-info">
- 								<h6>Title</h6>
- 								<h4>Welding Processing</h4>
+ 								<h4>Instagram</h4>
  							</div>
  						</div>
  					</div>
@@ -485,8 +484,7 @@
  								<i class="las la-plus"></i>
  							</a>
  							<div class="hover-info">
- 								<h6>Title</h6>
- 								<h4>Bridge Construction</h4>
+ 								<h4>Linkedin</h4>
  							</div>
  						</div>
  					</div>
@@ -499,8 +497,7 @@
  								<i class="las la-plus"></i>
  							</a>
  							<div class="hover-info">
- 								<h6>Title</h6>
- 								<h4>Machinary Processing</h4>
+ 								<h4>Jornalzinho</h4>
  							</div>
  						</div>
  					</div>

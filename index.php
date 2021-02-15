@@ -74,7 +74,9 @@
 
  	<!-- Header Area -->
 
- 	<header class="header-area">
+ 	<header class="header-area" style="
+    height: 110px;
+">
  		<div class="sticky-area">
  			<div class="navigation">
  				<div class="container">

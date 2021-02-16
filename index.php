@@ -297,7 +297,7 @@
  							<div class="service-icon">
  								<i class="fas fa-tools fa-7x"></i>
  							</div>
- 							<h5>Obras de infraestrura</h5>
+ 							<h5>Instalação de Gases</h5>
  							<p>A OXIMIL atua diretamente na elaboração dos projetos, execução e montagens de instalações.</p>
  							<a href="single-service.html" class="read-more">Veja Mais</a>
  						</div>

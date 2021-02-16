@@ -435,7 +435,7 @@
  			</div>
  			<div class="choose-certify">
  				<i style="color:white" class="la la-clipboard-check"></i>
- 				<h5 style="color:white">Qualidade é um valor!</h5>
+ 				<h5 style="color:white">Qualidade é mais que um valor!</h5>
  				<p style="color:white">A Oximil se compromete a garantir a qualidade, a satisfação dos seus clientes e partes interessadas por meio de gases, produtos e serviços confiáveis aprimorando continuamente seu sistema de gestão da qualidade.
  				</p>
  			</div>

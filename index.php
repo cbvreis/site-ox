@@ -472,7 +472,7 @@
  								<i class="las la-plus"></i>
  							</a>
  							<div class="hover-info">
- 								<h4>Instagram</h4>
+ 								<h4>Pátio Oximil</h4>
  							</div>
  						</div>
  					</div>
@@ -484,7 +484,7 @@
  								<i class="las la-plus"></i>
  							</a>
  							<div class="hover-info">
- 								<h4>Linkedin</h4>
+ 								<h4>Caminhão</h4>
  							</div>
  						</div>
  					</div>
@@ -497,7 +497,7 @@
  								<i class="las la-plus"></i>
  							</a>
  							<div class="hover-info">
- 								<h4>Jornalzinho</h4>
+ 								<h4>Tanque</h4>
  							</div>
  						</div>
  					</div>

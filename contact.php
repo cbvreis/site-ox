@@ -147,6 +147,7 @@
  			</div>
  		</div>
  	</header>
+  <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 
 
  	<!-- Breadcroumb Area -->
@@ -171,8 +172,8 @@
  			<div class="row">
  				<div class="offset-lg-2 col-lg-8 text-center">
  					<div class="section-title">
- 						<h6>Contact Us</h6>
- 						<h2>Don't hesitate to<b> contact</b> <br>for get <b>Information</b></h2>
+ 				
+ 						<h2>Entre em contato</h2>
  					</div>
  				</div>
  			</div>
@@ -182,32 +183,32 @@
  						<div class="contact-us-inner">
  							<div class="info-i"><span><i class="las la-map-marker"></i></span></div>
  							<h5>Endereço</h5>
- 							<p>66 Broklyn Streat <br>New York, USA</p>
- 							<a href="">Find us on map</a>
+ 							<p>Avenida industrial, 1000 - <br/>Distrito Industrial de Ibirité<br/> Ibirité - MG, 32400-000 </p>
+ 						
  						</div>
  					</div>
  					<div class="col-lg-3 col-md-6 col-12">
  						<div class="contact-us-inner">
- 							<div class="info-i"><span><i class="las la-clock"></i></span></div>
- 							<h5>Horário de atendimento</h5>
- 							<p>Monday-Friday <br>08.00-20.00</p>
- 							<a href="">Get Direction</a>
+ 							<div class="info-i"><span><i class="fa fa-users" aria-hidden="true"></i></span></div>
+ 							<h5>Redes sociais</h5>
+ 							<p>Instagram <br>Linkedin</p>
+ 					
  						</div>
  					</div>
  					<div class="col-lg-3 col-md-6 col-12">
  						<div class="contact-us-inner">
  							<div class="info-i"><span><i class="las la-mobile"></i></span></div>
  							<h5>Canal de vendas</h5>
- 							<p>(+1)212-946-2064 <br>(+3)112-976-2067</p>
- 							<a href="">Call Now</a>
+ 							<p> (31) 3385-6268 <br>vendas@oximil.com.br</p>
+ 							
  						</div>
  					</div>
  					<div class="col-lg-3 col-md-6 col-12">
  						<div class="contact-us-inner">
  							<div class="info-i"><span><i class="las la-envelope"></i></span></div>
  							<h5>E-mails</h5>
- 							<p>info@dustrian.com<br>info@webmail.com</p>
- 							<a href="">Mail Us</a>
+ 							<p>oximil@oximil.com.br<br>sac@oximil.com.br</p>
+ 							
  						</div>
  					</div>
  				</div>
@@ -251,7 +252,7 @@
  										<textarea name="message" id="message" cols="30" rows="10" placeholder="Write Message"></textarea>
  									</div>
  									<div class="col-lg-12 col-md-6 col-12 text-center">
- 										<button class="main-btn">Get A Quote</button>
+ 										<button class="main-btn">Enviar Mensagem</button>
  									</div>
  								</div>
  							</form>

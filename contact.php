@@ -152,7 +152,7 @@
 
  	<!-- Breadcroumb Area -->
 
- 	<div class="breadcroumb-area bread-bg">
+ 	<div class="breadcroumb-area4 bread-bg">
  		<div class="container">
  			<div class="row">
  				<div class="col-lg-12">

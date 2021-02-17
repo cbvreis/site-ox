@@ -220,7 +220,7 @@
  					<div class="single-service">
  						<img src="assets/img/industria.jpg" alt="">
  						<h2>Linha Industrial</h2>
- 						<p>A OXIMIL desempenha forte PRESENÇA nas aplicações de Gases Industriais para a melhoria continua dos seus clientes. Nosso objetivo é participar da redução dos custos produtivos com garantia e qualidade características de uma empresa genuinamente brasileira a serviço do mercado há 26 anos. Nossa presença está no comércio e serviços; laboratórios de pesquisas; minerações; siderúrgicas; fundições; metal mecânica; Indústria automobilística, de Transformações, química, alimentícias, bebidas; construções civil e mecânica. </p><p> Competitividade e relacionamento duradouro com seus clientes e fornecedores são os pontos fortes da Oximil.</p><p> Aqui, você pode CONFIAR.</p>
+ 						<p>A OXIMIL desempenha forte PRESENÇA nas aplicações de Gases Industriais para a melhoria continua dos seus clientes. Nosso objetivo é participar da redução dos custos produtivos com garantia e qualidade características de uma empresa genuinamente brasileira a serviço do mercado há 30 anos. Nossa presença está no comércio e serviços; laboratórios de pesquisas; minerações; siderúrgicas; fundições; metal mecânica; Indústria automobilística, de Transformações, química, alimentícias, bebidas; construções civil e mecânica. </p><p> Competitividade e relacionamento duradouro com seus clientes e fornecedores são os pontos fortes da Oximil.</p><p> Aqui, você pode CONFIAR.</p>
  					<!--	<hr>
  						<h5>Building Renovation with Current Technology</h5>
  						<p>Such a game Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia vero ipsam nemo

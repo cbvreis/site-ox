@@ -242,7 +242,7 @@
  								<div class="years"><span>30</span>Anos de sucesso</div>
  							</div>
  							<div class="col-lg-8 col-md-6 col-12">
- 								<div class="text">O ano de 2021 é um ano especial e que nos faz lembrar o quanto caminhamos para chegar até esse momento</div>
+ 								<div class="text">O ano de 2021 é um ano especial e que nos faz lembrar o quanto caminhamos para chegar até esse momento.</div>
  							</div>
  						</div>
  					</div>

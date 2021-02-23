@@ -200,7 +200,7 @@
  					<div class="service-list">
  						<h5>Gases</h5>
  						<a href="gas-selecionado.php?gas=oxigenio" <?= $titulo=="Oxigênio" ? "class='active'" : "" ?> >Oxigênio<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="gas-selecionado.php?gas=nitrogenio" <?= $titulo=="Ar Sintético Medicinal" ? "class='active'" : "" ?> >Ar Sintético Medicinal<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="gas-selecionado.php?gas=nitrogenio" <?= $titulo=="Ar Comprido Medicinal" ? "class='active'" : "" ?> >Ar Comprido Medicinal<span><i class="las la-arrow-right"></i></span></a>
  						<a href="gas-selecionado.php?gas=oxido-nitroso" <?= $titulo=="Óxido Nitroso" ? "class='active'" : "" ?> >Óxido Nitroso<span><i class="las la-arrow-right"></i></span></a>
  						<a href="gas-selecionado.php?gas=misturas-especiais" <?= $titulo=="Gases e Misturas Especiais" ? "class='active'" : "" ?> >Gases e Misturas Especiais <span><i class="las la-arrow-right"></i></span></a>
  					</div>

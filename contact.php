@@ -182,11 +182,14 @@
  					<div class="col-lg-3 col-md-6 col-12">
  						<div class="contact-us-inner">
  							<div class="info-i"><span><i class="las la-map-marker"></i></span></div>
- 							<h5>Endereço</h5>
- 							<p>Avenida industrial, 1000 - <br/>Distrito Industrial de Ibirité<br/> Ibirité - MG, 32400-000 </p>
- 						
+ 							<h5>Endereço Matriz</h5>
+ 							<p>Alameda Oscar Niemeyer, 420<br/>Vale do Sereno<br/> Nova Lima - MG, 34000-000</p>
+ 						                         <h5>Unidade Fabril </h5>
+                            <p>Avenida industrial, 1000 - <br/>Distrito Industrial de Ibirité<br/> Ibirité - MG, 32400-000 </p>
  						</div>
  					</div>
+                    
+                  
  					<div class="col-lg-3 col-md-6 col-12">
  						<div class="contact-us-inner">
  							<div class="info-i"><span><i class="fa fa-users" aria-hidden="true"></i></span></div>
@@ -244,8 +247,9 @@
  										<select style="color:white;" type="text" placeholder="Motivo do contato">
  											<option style="color:black;" >Vendas</option>
  											<option style="color:black;" >Trabalhe Conosco</option>	
- 											<option style="color:black;" >SAC</option>
- 											<option style="color:black;" >Outro</option>
+ 											<option style="color:black;" >Pedido</option>
+ 											<option style="color:black;" >Sac</option>
+                                            <option style="color:black;" >Outro</option>
  										</select>
  									</div>
  									<div class="col-lg-12">

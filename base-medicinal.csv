@@ -5,7 +5,7 @@ oxigenio;Oxigênio;"<p> É usado em hipoxemia de qualquer origem, com doenças p
 <p>Cilindros individuais</p>
 <p>Centrais com cilindros</p>
 <p>Tanques Criogênicos</p>";oxigenio.jpeg
-nitrogenio;Ar Sintético Medicinal;"<p>É administrado por inalações e ventilação mecânica. Também usado em procedimentos de anestesia e reanimação.</p>
+nitrogenio;Nitrogênio;"<p>É administrado por inalações e ventilação mecânica. Também usado em procedimentos de anestesia e reanimação.</p>
 
 <p>Forma de Abastecimento</p>
 
@@ -25,3 +25,4 @@ misturas-especiais;Gases e Misturas Especiais;"<p>Os Gases Especiais / Misturas 
 
 <p>Cilindros individuais</p>
 <p>Centrais com cilindros</p>";mistura-medicinal.jpeg
+co2;Gás Garbônico;;

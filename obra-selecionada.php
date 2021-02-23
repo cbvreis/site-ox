@@ -201,8 +201,9 @@
  					<div class="service-list">
  						<h5>Gases</h5>
  			
- 						<a href="obra-selecionada.php?obra=medicinal" <?= $titulo=="Instalações Medicinais" ? "class='active'" : "" ?>>Instalações Medicinais<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="obra-selecionada.php?obra=industrial" <?= $titulo=="Instalações Industriais" ? "class='active'" : "" ?>>Instalações Industriais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=medicinal" <?= $titulo=="Instalações de Gases Medicinais" ? "class='active'" : "" ?>>Instalações de Gases Medicinais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=especial" <?= $titulo=="Instalações de Gases Especiais" ? "class='active'" : "" ?>>Instalações de Gases Especiais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=industrial" <?= $titulo=="Instalações de Gases Industriais" ? "class='active'" : "" ?>>Instalações de Gases Industriais<span><i class="las la-arrow-right"></i></span></a>
 
 
  					</div>

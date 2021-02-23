@@ -175,8 +175,9 @@
  				<div class="col-lg-4">
  					<div class="service-list">
  						<h5>Gases</h5>
- 						<a href="obra-selecionada.php?obra=medicinal">Instalações Medicinais<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="obra-selecionada.php?obra=industrial">Instalações Industriais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=medicinal">Instalações Gases Medicinais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=especial">Instalações Gases Especiais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=industrial">Instalações Gases Industriais<span><i class="las la-arrow-right"></i></span></a>
  					
  					</div>
 

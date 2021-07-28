@@ -49,7 +49,7 @@ argonio;Argônio;"<p>Por ser um gás inerte, o argônio tem como característica
 <p>Soldagem de Metais</p>
 <p>Fabricação e montagem de equipamentos eletrônicos</p>
 <p>Diversas aplicações de soldas em inox e alumínio</p>";industrial-argonio.jpeg
-co2;Dióxido de Carbono;"<p>O Dióxido de carbono (CO2) é um gás liquefeito, incolor, inodoro, não inflamável e levemente ácido. O CO2 é mais pesado que o ar e é solúvel em água. Sua produção vem de processos da indústria petroquímica ou via queima de gás natural em processos de cogeração, entre outros.</p>
+CO2;Dióxido de Carbono;"<p>O Dióxido de carbono (CO2) é um gás liquefeito, incolor, inodoro, não inflamável e levemente ácido. O CO2 é mais pesado que o ar e é solúvel em água. Sua produção vem de processos da indústria petroquímica ou via queima de gás natural em processos de cogeração, entre outros.</p>
 
 <p>Forma de Abastecimento</p>
 
@@ -63,7 +63,7 @@ co2;Dióxido de Carbono;"<p>O Dióxido de carbono (CO2) é um gás liquefeito, i
 <p>Processos de soldas e cortes de Metais (laser )</p>
 <p>Produtos químicos</p>
 <p>Minerações</p>
-<p>Tratamento de efluentes</p>";industrial-co2.jpeg
+<p>Tratamento de efluentes</p>";industrial-CO2.jpeg
 helio;Helio;"<p>O verdadeiro gás do balão. Também muito utilizado na indústria para detectar vazamentos em equipamentos.</p>
 
 <p>Forma de Abastecimento</p>
@@ -120,23 +120,21 @@ nitrogenio;Nitrogênio;"<p>Por ser um gás inerte, o Nitrogênio tem como caract
 <p>Minerações</p>";industrial-nitrogenio.jpeg
 mistura-solda;Mistura para solda;"<p>A Oximil tem a mistura ideal para corte e soldas de metais buscando a otimização e desempenho com excelência na qualidade dos processos de sua empresa . Nossas misturas são usadas para soldas mecanizadas ou automatizada</p>
 
-<p>Argônio + Co2</p>
+<p>Argônio + CO2</p>
 
-<p>Argônio + Co2 +N2</p>
+<p> Argonio + O2</p>
 
-<p>Argônio + Co2 + O2</p>
+<p>Argônio + CO2 + O2</p>
 
 <p>Argônio + Hélio</p>
-
-<p>Nitrogênio + Argônio+ Hidrogênio</p>
 
 <p>Forma de Abastecimento</p>
 
 <p>Cilindros individuais</p>
 <p>Centrais de cilindros</p>
 <p>Cestas de cilindros</p>
-<p>Tanques de Argônio + Cilindros de Co2 + Misturador</p>
-<p>Tanques de Argônio + Tanque de Co2 + Misturador</p>
+<p>Tanques de Argônio + Cilindros de CO2 + Misturador</p>
+<p>Tanques de Argônio + Tanque de CO2 + Misturador</p>
 <p>Os gases de proteção da Oximil são utilizados em processos de soldagem MIG/MAG, TIG e PAW. Os gases protegem a área da solda contra os gases presentes no ar atmosférico, como o oxigênio, nitrogênio, dióxido de carbono e vapor d'água. Dependendo dos materiais soldados, esses gases atmosféricos podem reduzir a qualidade da solda ou dificultar o processo de soldagem.</p>
 
 <p>Aplicações</p>
@@ -145,7 +143,7 @@ mistura-solda;Mistura para solda;"<p>A Oximil tem a mistura ideal para corte e s
 <p>Estruturas Metálicas</p>
 <p>Fabricação de Maquinas e Equipamentos</p>
 <p>Manutenção e montagens de tubulações</p>
-<p>]Setor Automotivo, Ferroviário, Aeroespacial e Naval</p>";industrial-solda.jpeg
+<p>Setor Automotivo, Ferroviário, Aeroespacial e Naval</p>";industrial-solda.jpeg
 gases-especiais;Gases Especiais;"<p>Os gases especiais da Oximil são compostos de purezas específicas superiores a 99,995%. Estes gases são chamados de Ultrapuros. Sua aplicação é destacada nas indústrias para análises de produtos farmacêuticos, eletrônicos, petroquímicos, siderúrgicos, cimenteiras, minerações e diversos outros seguimentos. Têm como características otimizar o desempenho e reduzir os custos nos processos produtivos.</p>
 
 <p>Argônio Ultrapuro</p>

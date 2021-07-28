@@ -94,15 +94,19 @@
  												</ul>
  											</li>
  											<li class="nav-item">
- 												<a class="nav-link" href="#">Serviços
+ 												<a class="nav-link" href="#">Produtos
  													<span class="sub-nav-toggler">
  													</span>
  												</a>
  												<ul class="sub-menu">
  													<li><a href="gases-medicinais.php">Gases Medicinais</a></li>
  													<li><a href="gases-industriais.php">Gases Industriais</a></li>
+<li><a href="gases-especiais.php">Gases Especiais</a></li>
+
  													
  													<li><a href="instalacoes.php">Instalação de Gases</a></li>
+<li><a href="equipamentos.php">Equipamentos</a></li>
+
  									<!--				<li><a href="single-service.html">Service Details</a></li> -->
  												</ul>
 
@@ -140,7 +144,7 @@
  						</div>
  						<div class="col-lg-3 text-right">
  							<div class="header-right-content">
- 								<div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996080866" > Atendimento </a> </div>
+ 								<div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996535766" > Pedido de Gases </a> </div>
  							</div>
  						</div>
  					</div>
@@ -173,19 +177,20 @@
  		<div class="container">
  			<div class="row">
  				<div class="col-lg-4">
- 					<div class="service-list">
+ 			<!--		<div class="service-list">
  						<h5>Gases</h5>
- 						<a href="obra-selecionada.php?obra=medicinal">Instalações Gases Medicinais<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="obra-selecionada.php?obra=especial">Instalações Gases Especiais<span><i class="las la-arrow-right"></i></span></a>
- 						<a href="obra-selecionada.php?obra=industrial">Instalações Gases Industriais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=medicinal">Instalações de Gases Medicinais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=especial">Instalações de Gases Especiais<span><i class="las la-arrow-right"></i></span></a>
+ 						<a href="obra-selecionada.php?obra=industrial">Instalações de Gases Industriais<span><i class="las la-arrow-right"></i></span></a>
  					
  					</div>
-
+			-->
  					<div class="question-section">
- 						<h6>Faça seu orçamento abaixo</h6>
+ 						<h6>Faça um orçamento</h6>
  						<form action="sendemail.php">
  							<input type="text" name="name" id="name" required="" placeholder="Nome">
  							<input type="email" name="email" id="email" required="" placeholder="E-mail">
+<input type="text" name="telefone" id="telefone" required="" placeholder="Telefone">
  							<select style="background: #fff" name="Produto" id="produto">
 								  <option value="volvo">Instalação medicinal</option>
 								  <option value="saab">Instalação industrial</option>
@@ -208,18 +213,11 @@
  				<div class="col-lg-8">
  					<div class="single-service">
  						<img src="assets/img/obra2.jpg" alt="">
- 						<h2>Instalação de Gases</h2>
- 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, 
-							pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus. 
-							Donec scelerisque sollicitudin enim eu venenatis. Duis tincidunt laoreet ex, 
-							in pretium orci vestibulum eget.</p> <p> Class aptent taciti sociosqu ad litora torquent
-							per conubia nostra, per inceptos himenaeos. Duis pharetra luctus lacus ut 
-							vestibulum. Maecenas ipsum lacus, lacinia quis posuere ut, pulvinar vitae dolor.
-							Integer eu nibh at nisi ullamcorper sagittis id vel leo.</p> <p>Integer feugiat 
-							faucibus libero, at maximus nisl suscipit posuere. Morbi nec enim nunc. 
-							Phasellus bibendum turpis ut ipsum egestas, sed sollicitudin elit convallis. 
-							Cras pharetra mi tristique sapien vestibulum lobortis. Nam eget bibendum metus, 
-							non dictum mauris. Nulla at tellus sagittis, viverra est a, bibendum metus.
+ 						<h2>Instalações de Gases Medicinais, Industriais e Especiais</h2>
+ 						<p>Há 30 anos, a OXIMIL atua diretamente na elaboração de projetos, execução e montagens de instalações de Gases Medicinais, Industriais e Especiais. O sistema centralizado de gases gera uma série de benefícios que certamente impactam na qualidade e, consequentemente, na satisfação obtida pelos usuários, onde é possível ter gases sempre à disposição, com garantia, eficiência e segurança de fornecimento até o ponto de consumo.</p>
+						<p>Todas as nossas instalações seguem rigorosamente as normas de segurança da ABNT, NBR 12188 e suas especificações e, a recomendação da ANVISA, Resolução RDC nº 50, para gases medicinais.</p>
+						<p>A Oximil, com seu quadro de profissionais experientes, garante o que faz!</p>
+
 							</p>
 							 					<!--	<hr>
  						<h5>Building Renovation with Current Technology</h5>

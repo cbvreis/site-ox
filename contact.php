@@ -93,15 +93,19 @@
                                                  </ul>
                                              </li>
                                              <li class="nav-item">
-                                                 <a class="nav-link" href="#">Serviços
+                                                 <a class="nav-link" href="#">Produtos
                                                      <span class="sub-nav-toggler">
                                                      </span>
                                                  </a>
                                                  <ul class="sub-menu">
                                                      <li><a href="gases-medicinais.php">Gases Medicinais</a></li>
                                                      <li><a href="gases-industriais.php">Gases Industriais</a></li>
+<li><a href="gases-especiais.php">Gases Especiais</a></li>
+
                                                     
                                                      <li><a href="instalacoes.php">Instalação de Gases</a></li>
+<li><a href="equipamentos.php">Equipamentos</a></li>
+
                                      <!--                <li><a href="single-service.html">Service Details</a></li> -->
                                                  </ul>
 
@@ -139,7 +143,7 @@
  						</div>
  						<div class="col-lg-3 text-right">
  							<div class="header-right-content">
- 								<div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996080866" > Atendimento </a> </div>
+ 								<div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996535766" > Pedido de Gases </a> </div>
  							</div>
  						</div>
  					</div>

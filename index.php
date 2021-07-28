@@ -123,15 +123,19 @@
  												</ul>
  											</li>
  											<li class="nav-item">
- 												<a class="nav-link" href="#">Serviços
+ 												<a class="nav-link" href="#">Produtos
  													<span class="sub-nav-toggler">
  													</span>
  												</a>
  												<ul class="sub-menu">
  													<li><a href="gases-medicinais.php">Gases Medicinais</a></li>
  													<li><a href="gases-industriais.php">Gases Industriais</a></li>
+													<li><a href="gases-especiais.php">Gases Especiais</a></li>
+
  													
  													<li><a href="instalacoes.php">Instalação de Gases</a></li>
+													<li><a href="equipamentos.php">Equipamentos</a></li>
+
  									<!--				<li><a href="single-service.html">Service Details</a></li> -->
  												</ul>
 
@@ -169,7 +173,7 @@
  						</div>
  						<div class="col-lg-3 text-right">
  							<div class="header-right-content">
- 								<div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996080866" > Atendimento </a> </div>
+ 								<div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996535766" > Pedido de Gases </a> </div>
  							</div>
  						</div>
  					</div>
@@ -186,7 +190,7 @@
  			<div class="hero-area-content">
  				<div class="container">
  					<div class="row justify-content-center">
- 						<div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".3s">
+ 						<div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".8s">
  							<div class="section-title">
  								<h1 style="color:#fff">Gases Medicinais</h1>
  								<p style="color:#fff"> A Oximil disponibiliza os melhores profissionais, <br>produtos e serviços medicinais há 30 anos.</p>
@@ -203,7 +207,7 @@
  			<div class="hero-area-content">
  				<div class="container">
  					<div class="row justify-content-center">
- 						<div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".3s">
+ 						<div class="col-lg-12 wow fadeInUp animated" data-wow-delay=".8s">
  							<div class="section-title">
  								<h1>Confiança<br> <!--<b>Factory Solutions</b> --></h1>
  								<p>A OXIMIL tem para seus clientes produtos e serviços seguros,<br> de alta tecnologia e qualidade. Entre em contato conosco.</p>
@@ -236,7 +240,7 @@
  						<p class="highlight">Atendendo mais de 150 cidades.</p>
  						<p class="highlight">Possuímos logística própria para melhor atender nossos clientes. </p>
  						<p class="highlight">Atendimento personalizado para a necessidade de cada cliente.</p>
-						<p class="highlight">Comercializamos equipamentos, serviços e produtos de alta qualidade com todos os certificados exigidos no mercado.</p>
+						<p class="highlight">Comercializamos produtos e serviços com garantia e qualidade Oximil.</p>
  						<div class="row founded">
  							<div class="col-lg-4 col-md-6 col-12">
  								<div class="years"><span>30</span>Anos de sucesso</div>
@@ -260,7 +264,7 @@
  				<div class="offset-lg-2 col-lg-8 text-center">
  					<div class="section-title">
  						<h6>Serviços</h6>
- 						<h2>Fornecendo os <b>melhores serviços</b> no mercado de Gases</h2>
+ 						<h2>Fornecemos os melhores produtos e serviços para o mercado de Gases.</h2>
  					</div>
  				</div>
  			</div>

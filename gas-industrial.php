@@ -118,15 +118,19 @@ if (($handle = fopen("base-industrial.csv", "r")) !== FALSE) {
                                                  </ul>
                                              </li>
                                              <li class="nav-item">
-                                                 <a class="nav-link" href="#">Serviços
+                                                 <a class="nav-link" href="#">Produtos
                                                      <span class="sub-nav-toggler">
                                                      </span>
                                                  </a>
                                                  <ul class="sub-menu">
                                                      <li><a href="gases-medicinais.php">Gases Medicinais</a></li>
                                                      <li><a href="gases-industriais.php">Gases Industriais</a></li>
+<li><a href="gases-especiais.php">Gases Especiais</a></li>
+
                                                     
                                                      <li><a href="instalacoes.php">Instalação de Gases</a></li>
+<li><a href="equipamentos.php">Equipamentos</a></li>
+
                                      <!--                <li><a href="single-service.html">Service Details</a></li> -->
                                                  </ul>
 
@@ -164,7 +168,7 @@ if (($handle = fopen("base-industrial.csv", "r")) !== FALSE) {
                          </div>
                          <div class="col-lg-3 text-right">
                              <div class="header-right-content">
-                                 <div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996080866" > Atendimento </a> </div>
+                                 <div style="color:white" class="header-btn main-btn"><a style="color:white" href="https://wa.me/5531996535766" > Pedido de Gases </a> </div>
                              </div>
                          </div>
                      </div>
@@ -213,10 +217,11 @@ if (($handle = fopen("base-industrial.csv", "r")) !== FALSE) {
                      </div>
 
                      <div class="question-section">
-                         <h6>Faça seu orçamento abaixo</h6>
+                         <h6>Faça um orçamento</h6>
                          <form action="sendemail.php">
                              <input type="text" name="name" id="name" required="" placeholder="Nome">
                              <input type="email" name="email" id="email" required="" placeholder="E-mail">
+<input type="text" name="telefone" id="telefone" required="" placeholder="Telefone">
                              <select style="background: #fff" name="Produto" id="produto">
                                   <option value="volvo">Oxigênio</option>
                                   <option value="saab">Nitrogênio</option>

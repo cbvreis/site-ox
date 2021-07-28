@@ -65,9 +65,9 @@
 		nav: true,
 		loop: true,
 		autoplay: true,
-		autoplayTimeout: 5000,
+		autoplayTimeout: 8000,
 		smartSpeed: 2000,
-		slideSpeed: 600,
+		slideSpeed: 50,
 		navText: ["<i class='la la-angle-left'></i>", "<i class='la la-angle-right'></i>"],
 		responsive: {
 			0: {
